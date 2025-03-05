@@ -138,10 +138,12 @@ a {
     padding: 1rem 2rem;
     display:flex;
     justify-content: center;
+    align-items: center;
 }
 
 .button button:last-child{
     padding: 1rem 2rem;
     display:flex;
     justify-content: center;
+    align-items: center;
 }
